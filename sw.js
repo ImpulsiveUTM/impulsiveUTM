@@ -17,7 +17,7 @@ self.addEventListener('install', evento=>{
                 'css/personal.css',
                 'css/icons.css',
                 'js/bootstrap.min.js',
-                'js/app.js',
+                '/app.js',
                 '/offline.html',
                 'font-awesome/css/font-awesome.min.css',
                 'img/phone.jpg.png',
